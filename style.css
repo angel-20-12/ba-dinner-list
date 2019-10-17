@@ -82,7 +82,7 @@ input:checked + .stroke{
     color: #a3a0b5;
 } */
 
-label[for*="1"]:after{
+label[for*="a"]:after{
     content: "new";
     color: #333; /* Цвет текста */ 
     background-color: #fc0; /* Цвет фона */ 
